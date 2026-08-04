@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Khushi%20Chhakara&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Building%20systems%2C%20not%20just%20shipping%20code&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:8B5CF6,100:4ECDC4&height=230&section=header&text=Khushi%20Chhakara&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Building%20systems%2C%20not%20just%20shipping%20code&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/hCvJyeMTtokao/giphy.gif" width="280"/>
 
 </div>
 
@@ -161,7 +161,7 @@ Responsive web application built around reusable components and a performance-fi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:8B5CF6,100:FF6EC7&height=100&section=footer"/>
 
 <sub>Open to internships and collaborative open-source work.</sub>
 
