@@ -43,19 +43,19 @@ I'm currently expanding into AI/ML, cloud infrastructure, and system design — 
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 **Currently Exploring**
 <br/>
